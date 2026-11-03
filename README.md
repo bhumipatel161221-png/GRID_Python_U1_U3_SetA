@@ -1,4 +1,4 @@
-# Python Fundamentals Exercises
+# GRID_Python_U1_U3_SetA
 
 This folder contains six standalone Python scripts demonstrating core Python concepts. Run a script with Python 3 from this folder, for example `python sectionA.py`. `sectionB.py` prompts for an item name, price, and quantity.
 
